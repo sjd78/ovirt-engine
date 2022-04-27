@@ -37,7 +37,7 @@
 %endif
 
 %global ovirt_build_minimal_user_agents gecko1_8,safari
-%global ovirt_build_minimal_user_locales en_US
+%global ovirt_build_minimal_user_locales en_US,ka_GE
 
 # conditional build "full" performs unit tests, and builds GWT for all  user agents and locales
 #   *** This is the default build if no other build type has been selected
